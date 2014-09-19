@@ -1,7 +1,8 @@
-application: lunchify
-version: 1
-runtime: python
+application: lunchify-hrd
+version: 2
+runtime: python27
 api_version: 1
+threadsafe: no
 
 handlers:
 - url: /stylesheets
